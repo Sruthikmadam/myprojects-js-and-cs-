@@ -1,0 +1,70 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height:100vh;
+    background-color: rgb(40, 48, 52);
+
+}
+.form-container{
+    margin-top: 20px;
+    width: 40vw;
+    border-radius: 15px;
+    height: 80vh;
+    padding: 10px;
+    background-color: rgb(212, 212, 226);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+form input{
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid grey;
+}
+form button{
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+.add-div{
+    width: 100%;
+    padding:10px 0px 0px 90px ;
+
+}
+.add-div button{
+    padding:8px;
+    background-color: green;
+    color: white;
+    border-radius: 7px;
+}
+.add-div button:hover{
+    background-color: greenyellow;
+    cursor: pointer;
+
+}
+table{
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+.update-form,.create-form{
+    display: none;
+}table button{
+
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 4px;
+
+}
+table .edit{
+    background-color: burlywood;
+    color: white;
+
+}
+table .delete{
+    background-color: rgb(180, 104, 17);
+    color: white;
+}

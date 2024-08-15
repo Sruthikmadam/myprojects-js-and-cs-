@@ -1,0 +1,80 @@
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    position: fixed;
+    top: 0;
+    left: 0 ;
+    width: 100%;
+    height: 70px;
+    background:rgb(12, 159, 223);
+};
+   
+nav .navbar{
+    height: 100%;
+    max-width: 1250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+nav .navbar .logo a{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none;
+}
+nav .navbar .navlinks{
+
+    height: 100%;
+    line-height: 70px;
+}
+nav .navbar .navlinks .links{
+    display: flex;
+}
+nav .navbar .navlinks .links li{
+    position: relative;
+    list-style: none;
+    align-items: center;
+    list-style: none;
+    padding: 0 14px;
+
+}/*
+nav .navbar .navlinks .links li a{
+    height: 100%;
+    color: #fff;
+    text-decoration: none;
+    white-space: nowrap;
+}
+nav .navbar .navlinks .links .arrow{
+    background: red;
+    height: 100%;
+    width: 22px;
+    text-align: center;
+    color: #fff;
+    line-height: 70px;
+    transition: all 0.3s ease;
+
+}
+.navbar .navlinks .links li:hover .barraow, .navbar .navlinks .links li:hover .jarrow{
+    transform: rotate(180deg);
+}
+nav .navbar .navlinks .links .submenu{
+    position: absolute;
+    top: 70px;
+    left: 0;
+    background-color:rgb(12, 159, 223);
+    line-height: 40px;
+    border-radius: 0 0 4px 4px;
+}
+nav .navbar .navlinks .links .submenu li{
+    padding: 0 22px;
+}
+nav .navbar .navlinks .links .submenu li a{
+    font-size: 15px;
+    font: 500px;
+}

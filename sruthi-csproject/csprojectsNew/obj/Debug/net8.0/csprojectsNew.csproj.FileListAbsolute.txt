@@ -1,0 +1,14 @@
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\obj\Debug\net8.0\csprojectsNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\obj\Debug\net8.0\csprojectsNew.AssemblyInfoInputs.cache
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\obj\Debug\net8.0\csprojectsNew.AssemblyInfo.cs
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\obj\Debug\net8.0\csprojectsNew.csproj.CoreCompileInputs.cache
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\bin\Debug\net8.0\csprojectsNew.exe
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\bin\Debug\net8.0\csprojectsNew.deps.json
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\bin\Debug\net8.0\csprojectsNew.runtimeconfig.json
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\bin\Debug\net8.0\csprojectsNew.dll
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\bin\Debug\net8.0\csprojectsNew.pdb
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\obj\Debug\net8.0\csprojectsNew.dll
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\obj\Debug\net8.0\refint\csprojectsNew.dll
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\obj\Debug\net8.0\csprojectsNew.pdb
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\obj\Debug\net8.0\csprojectsNew.genruntimeconfig.cache
+C:\Users\vinay\OneDrive\Desktop\csprojectsNew\csprojectsNew\obj\Debug\net8.0\ref\csprojectsNew.dll
